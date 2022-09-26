@@ -1,0 +1,23 @@
+{
+  "name": "api_simpleapp",
+  "version": "1.0.0",
+  "description": "Get API Through Express.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamadshigri/Api_SimpleApp.git"
+  },
+  "author": "Hamad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamadshigri/Api_SimpleApp/issues"
+  },
+  "homepage": "https://github.com/hamadshigri/Api_SimpleApp#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
